@@ -1,6 +1,6 @@
-# 🔍 Visual Image Retrieval using ORB Features
+# 🔍 Simple Visual Image Retrieval using ORB Features
 
-This Streamlit app allows you to upload a **target image** and multiple **query images**.  
+This simple Streamlit app allows you to upload a **target image** and multiple **query images**.  
 It detects and highlights where each query image appears inside the target image using **ORB feature matching**.
 
 ---
