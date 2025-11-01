@@ -1,0 +1,17 @@
+# Ignore images folder
+images/
+
+# Ignore temporary or system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+# Ignore Streamlit cache
+.streamlit/
